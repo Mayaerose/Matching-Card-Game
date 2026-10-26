@@ -48,7 +48,7 @@ This is a card matching game I made to practice JavaScript. There are 10 cards f
 - How to use `setTimeout` to wait before something happens
 - How to shuffle an array with `Math.random`
 
-VIEW APP HERE: https://matching-card-game-b2io.onrender.com/
+VIEW APP HERE: https://matching-card-game-b2io.onrender.com
 
 ## Author
 
